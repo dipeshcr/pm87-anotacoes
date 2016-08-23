@@ -5,6 +5,8 @@ public class TesteGit {
 		System.out.println("Exemplo de teste de uso do GIT");
 
 		System.out.println("Fazendo o clone do Repositorio PM-87 Anotacoes");
+
+		System.out.println("Utilizando o rebase");
 	
 	}
 
